@@ -1,0 +1,105 @@
+.body{
+	margin:0;
+}
+.maincontainer{
+	margin:auto;
+	width:1000px;
+}
+.maincontainer1{
+	width:1140px;
+	height:740px;
+	margin:auto;
+}
+.container{
+	background-color:blue;
+	width:100%;
+	height:30px;
+}
+.date{
+	width:1100px;
+	margin:auto;
+	font-size:19px;
+	color:white;	
+}
+.section{
+	width:230px;
+	height:560px;
+	float:left;
+}
+.section1{
+	width:910px;
+	height:560px;
+	float:left;
+}
+.maincontainer2{
+	width:100%;
+	height:30px;
+	background-color:blue;
+}
+.logintable{
+	width:200px;
+}
+.container1{
+	width:910px;
+	height:630px;
+	border:solid 1px black;
+}
+.b{
+	width:250px;
+}
+.a{
+	padding-left:120px;
+}
+.text{
+	width:250px;
+}
+.c{
+	padding-left:85px;
+}
+.text1{
+	width:250px;
+	height:55px;
+}
+.container2{
+	width:910px;
+	height:540px;
+}
+.image{
+	float:right;
+}
+.text2{
+	float:right;
+	width:600px;
+	height:200px;
+}
+.button2{
+	margin-left:80px;
+	margin-top:15px;
+	background-color:#00146A;
+	color:white;
+}
+.button3{
+	background-color:#00146A;
+	color:white;
+}
+.m{
+	padding-left:154px;
+}
+.n{
+	padding-left:170px;
+}
+.t{
+	padding-left:97px;
+}
+.button4{
+	background-color:#EEE;
+}
+.p{
+	padding-left:90px;
+}
+.i{
+	padding-left:40px;
+}
+.abc{
+	margin-top:140px;
+}
